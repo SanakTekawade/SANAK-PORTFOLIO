@@ -97,7 +97,7 @@ export const initialPortfolioData: PortfolioData = {
   github: "https://github.com/sanaktekawade",
   linkedin: "https://www.linkedin.com/in/sanak-tekawade-36491b397?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   website: "sanaktekawade.dev",
-  avatarUrl: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1000&q=85",
+  avatarUrl: "/profile.jpg",
   aboutBadge: "Profile // Academic Overview",
   headline: "Engineering Intelligent Systems & High-Performance Interactive Software",
   description: "2nd Year AI & Data Science student at D.Y. Patil College of Engineering and Innovation, Talegaon, Pune. Passionate about machine learning, autonomous desktop AI assistants (JARVIS), women safety emergency systems (Safe Shield), full-stack web applications, and interactive 3D games.",
